@@ -1,7 +1,247 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cb97d56-39da-4b34-8b7d-a69888f22d22" name="Default Changelist" comment="" />
+    <list default="true" id="5cb97d56-39da-4b34-8b7d-a69888f22d22" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods/9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/goods_judge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/QQ-weixin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/adv01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/adv02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/banner01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/banner02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/banner03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/bar_code.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/clock.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/clock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/find-password.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/goods/goods001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/goods/goods002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/goods/goods003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/goods/goods004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/goods/goods005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/goods/goods006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/goods/goods007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/goods/goods008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/goods/goods009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/goods_450.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/icons02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/interval_line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/left_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/login_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/logo02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/pay_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/pic_code.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/register_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/shine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/shop_cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/slide01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/slide02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/slide03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/slide04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/stars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/success.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/images/time_count_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/axios-0.18.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/detail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/goods_judge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/host.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/jquery-1.12.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/oauth_callback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/slide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/user_center_info.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/user_center_pass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/user_center_site.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/js/vue-2.5.16.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/oauth_callback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/order_success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/place_order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/success_verify_email.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/user_center_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/user_center_order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/user_center_pass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_pc/user_center_site.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/bin/node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/bin/npm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/android-ifaddrs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/ares.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/ares_version.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/common.gypi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/config.gypi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/libplatform/libplatform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/nameser.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/node_buffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/node_internals.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/node_object_wrap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/node_version.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/aes.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/BSD-x86/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/BSD-x86_64/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/VC-WIN32/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/VC-WIN64A/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/aix-gcc/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/aix64-gcc/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/darwin-i386-cc/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/darwin64-x86_64-cc/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/linux-aarch64/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/linux-armv4/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/linux-elf/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/linux-ppc/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/linux-ppc64/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/linux-x32/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/linux-x86_64/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/solaris-x86-gcc/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/archs/solaris64-x86_64-gcc/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/asn1.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/asn1_mac.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/asn1t.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/bio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/blowfish.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/bn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/buffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/camellia.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/cast.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/cmac.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/cms.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/comp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/conf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/conf_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/crypto.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/des.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/des_old.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/dh.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/dsa.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/dso.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/dtls1.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/e_os2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ebcdic.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ec.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ecdh.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ecdsa.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/engine.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/err.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/evp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/hmac.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/idea.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/krb5_asn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/kssl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/lhash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/md4.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/md5.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/mdc2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/modes.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/obj_mac.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/objects.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ocsp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/opensslconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/opensslv.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ossl_typ.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/pem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/pem2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/pkcs12.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/pkcs7.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/pqueue.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/rand.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/rc2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/rc4.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ripemd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/rsa.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/safestack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/seed.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/sha.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/srp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/srtp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ssl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ssl2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ssl23.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ssl3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/stack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/symhacks.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/tls1.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ts.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/txt_db.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ui.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/ui_compat.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/whrlpool.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/x509.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/x509_vfy.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/openssl/x509v3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/pthread-fixes.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/stdint-msvc2008.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/tree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/uv-aix.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/uv-bsd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/uv-darwin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/uv-errno.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/uv-linux.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/uv-sunos.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/uv-threadpool.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/uv-unix.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/uv-version.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/uv-win.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/uv.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/v8-debug.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/v8-platform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/v8-profiler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/v8-testing.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/v8-util.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/v8-version.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/v8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/v8config.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/zconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/include/node/zlib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/share/doc/node/gdbinit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/share/man/man1/node.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-v4.4.7-linux-x64/share/systemtap/tapset/node.stp" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +250,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3576">
-              <caret line="167" selection-start-line="167" selection-end-line="167" />
+            <state relative-caret-position="312">
+              <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
               <folding>
                 <element signature="e#316#325#0" expanded="true" />
               </folding>
@@ -23,10 +263,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/views.py">
+        <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+            <state relative-caret-position="331">
+              <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -35,54 +275,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="6" column="86" lean-forward="true" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/libs/captcha/captcha.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#104#117#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="2592">
+              <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -91,19 +287,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/__init__.py">
+        <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            <state relative-caret-position="432">
+              <caret line="553" selection-start-line="553" selection-end-line="553" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meiduo_mall/manage.py">
+        <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="168">
+              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,21 +340,33 @@
         <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/prod.py" />
         <option value="$PROJECT_DIR$/meiduo_mall/manage.py" />
         <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/__init__.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/urls.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/celery_tasks/sms/tasks.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/libs/yuntongxun/ccp_sms.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/celery_tasks/yuntongxun/ccp_sms.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/celery_tasks/main.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/utils.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/utils/view.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/celery_tasks/email/tasks.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/celery_tasks/config.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/urls.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/models.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/urls.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/views.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/utils/models.py" />
         <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/models.py" />
         <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/views.py" />
         <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/urls.py" />
-        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py" />
-        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/views.py" />
-        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/urls.py" />
-        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/urls.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1" />
-    <option name="y" value="25" />
-    <option name="width" value="996" />
-    <option name="height" value="904" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="949" />
+    <option name="y" value="27" />
+    <option name="width" value="970" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -150,6 +376,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,32 +415,31 @@
               <item name="meiduo_mall_project" type="462c0819:PsiDirectoryNode" />
               <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
               <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meiduo_mall_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meiduo_mall_project" type="462c0819:PsiDirectoryNode" />
-              <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="captcha" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/libs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/meiduo_mall/scripts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meiduo_mall" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/meiduo_mall" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meiduo_mall/scripts" />
+      <recent name="$PROJECT_DIR$/meiduo_mall/celery_tasks" />
       <recent name="$PROJECT_DIR$/meiduo_mall/meiduo_mall/libs" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -273,11 +499,14 @@
       <workItem from="1577530366068" duration="4619000" />
       <workItem from="1577597438578" duration="951000" />
       <workItem from="1577614634428" duration="6639000" />
+      <workItem from="1577669986882" duration="7598000" />
+      <workItem from="1577686102027" duration="1376000" />
+      <workItem from="1578024612903" duration="19668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12263000" />
+    <option name="totallyTimeSpent" value="40905000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -289,24 +518,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1849" height="914" extended-state="7" />
-    <editor active="true" />
+    <frame x="949" y="27" width="970" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1279911" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2240566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.52597404" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34768212" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936507" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32849604" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32849604" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.23941799" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.27152318" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -318,25 +546,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/views.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/meiduo_mall_project$manage.coverage" NAME="manage Coverage Results" MODIFIED="1577624713404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall" />
+    <SUITE FILE_PATH="coverage/meiduo_mall_project$manage.coverage" NAME="manage Coverage Results" MODIFIED="1578063283161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings.py" />
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/prod.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/contrib/auth/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -355,73 +569,10 @@
     <entry file="file://$PROJECT_DIR$/meiduo_mall/logs/.gitkepp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="6" column="86" lean-forward="true" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-465">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -432,29 +583,288 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/libs/captcha/captcha.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="168">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#104#117#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/libs/yuntongxun/CCPRestSDK.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/libs/yuntongxun/ccp_sms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/management/commands/runserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/utils/six.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="684" selection-start-line="684" selection-end-line="684" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/apps/registry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/utils/autoreload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="227" selection-start-line="227" selection-end-line="227" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/celery_tasks/sms/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/celery_tasks/yuntongxun/ccp_sms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-830">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/celery_tasks/yuntongxun/CCPRestSDK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18566" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/celery_tasks/yuntongxun/xmltojson.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-878">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/utils/view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/meiduo_mall/bin/celery">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#75#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/celery_tasks/email/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/celery_tasks/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/prod.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/celery_tasks/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/verifications/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="1" lean-forward="true" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#645#686#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/celery_tasks/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#23#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3576">
-          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        <state relative-caret-position="312">
+          <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
           <folding>
             <element signature="e#316#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/scripts/areas.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/utils/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2592">
+          <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/backends/mysql/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="553" selection-start-line="553" selection-end-line="553" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>

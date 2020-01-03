@@ -55,27 +55,18 @@ var vm = new Vue({
                     // crossDomain: true
                 })
                     .then(response => {
-                        // 使用浏览器本地存储保存token
-                        if (this.remember) {
-                            // 记住登录
-                            // sessionStorage.clear();
-                            // localStorage.token = response.data.token;
-                            // localStorage.user_id = response.data.user_id;
-                            // localStorage.username = response.data.username;
-                        } else {
-                            // 未记住登录
-                            // localStorage.clear();
-                            // sessionStorage.token = response.data.token;
-                            // sessionStorage.user_id = response.data.user_id;
-                            // sessionStorage.username = response.data.username;
-                        }
 
-                        // 跳转页面
-                        var return_url = this.get_query_string('next');
-                        if (!return_url) {
-                            return_url = '/index.html';
+                        if (response.data.code == 0) {
+                            // 跳转页面
+                            var return_url = this.get_query_string('next');
+                            if (!return_url) {
+                                return_url = '/index.html';
+                            }
+                            location.href = return_url;
+                        } else if (response.data.code == 400) {
+                            this.error_pwd_message = '用户名或密码错误';
+                             this.error_pwd = true;
                         }
-                        location.href = return_url;
                     })
                     .catch(error => {
                         if (error.response.status == 400) {

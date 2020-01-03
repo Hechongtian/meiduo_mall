@@ -17,9 +17,10 @@ import sys
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # 获取apps这个包的绝对路径
 apps_path = os.path.join(BASE_DIR, 'apps')
+libs_path = os.path.join(BASE_DIR, 'libs')
 # 把绝对路径添加到‘导包路径’中
 sys.path.insert(0, apps_path)
-
+sys.path.insert(0, libs_path)
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
@@ -30,7 +31,7 @@ SECRET_KEY = 'vhfe1c=@ehri(q_h#q72*z6t)7*fp_t8**clm6#lphorr37k-i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -42,17 +43,18 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    # 用户模块应用
-    'users.apps.UsersConfig',
     # 添加 django-cors-headers 使其可以进行 cors 跨域
     'corsheaders',
+    'users',
+    'verifications',
+    'areas',
 ]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
+    # 'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
@@ -219,7 +221,23 @@ CORS_ORIGIN_WHITELIST = (
 )
 CORS_ALLOW_CREDENTIALS = True  # 允许携带cookie
 
-ALLOWED_HOSTS = ['api.meiduo.site',
-                 '127.0.0.1',
-                 'localhost',
-                 'www.meiduo.site']
+# 指定自定义的用户认证后端:
+AUTHENTICATION_BACKENDS = ['users.utils.UsernameMobileAuthBackend']
+
+# 发送短信的相关设置, 这些设置是当用户没有发送相关字段时, 默认使用的内容:
+# 发送短信必须进行的设置:
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+# 我们使用的 smtp服务器 地址
+EMAIL_HOST = 'smtp.163.com'
+# 端口号
+EMAIL_PORT = 25
+# 下面的内容是可变的, 随后台设置的不同而改变:
+# 发送邮件的邮箱
+EMAIL_HOST_USER = 'ct451476848@163.com'
+# 在邮箱中设置的客户端授权密码
+EMAIL_HOST_PASSWORD = 'ctshouquan8958'
+# 收件人看到的发件人
+EMAIL_FROM = '鹤冲天<ct451476848@163.com>'
+
+# 邮箱验证链接
+EMAIL_VERIFY_URL = 'http://www.meiduo.site:8080/success_verify_email.html?token='
