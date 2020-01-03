@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cb97d56-39da-4b34-8b7d-a69888f22d22" name="Default Changelist" comment="">
+    <list default="true" id="5cb97d56-39da-4b34-8b7d-a69888f22d22" name="Default Changelist" comment="项目二：商品准备开始">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front_end_pc/cart.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/front_end_pc/css/main.css" beforeDir="false" />
@@ -362,11 +362,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="949" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="67" />
     <option name="y" value="27" />
-    <option name="width" value="970" />
-    <option name="height" value="1050" />
+    <option name="width" value="900" />
+    <option name="height" value="902" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -501,12 +501,12 @@
       <workItem from="1577614634428" duration="6639000" />
       <workItem from="1577669986882" duration="7598000" />
       <workItem from="1577686102027" duration="1376000" />
-      <workItem from="1578024612903" duration="19668000" />
+      <workItem from="1578024612903" duration="19910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40905000" />
+    <option name="totallyTimeSpent" value="41147000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,7 +518,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="949" y="27" width="970" height="1050" extended-state="0" />
+    <frame x="67" y="27" width="900" height="902" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2240566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -534,7 +534,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32849604" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.27152318" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32453826" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
